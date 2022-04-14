@@ -1,2 +1,2 @@
 # shunchaki
-Bu ham shunchaki
+Bu yerda o'zim uchun shunchaki kodlar yozganman.
