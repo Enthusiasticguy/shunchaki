@@ -17,7 +17,7 @@ while i>0:
   # i o'zgaruvchini bittaga kamaytiramiz
   i=i-1
 # va bajaramiz
-  done()  
+done()  
   
   
   
